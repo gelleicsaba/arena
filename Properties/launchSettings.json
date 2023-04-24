@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "arena": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}
